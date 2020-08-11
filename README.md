@@ -1,2 +1,1 @@
-# Box
-Using Visual Studio Code
+# Box Class
